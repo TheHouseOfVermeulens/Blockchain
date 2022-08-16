@@ -10,8 +10,6 @@ contract Bank {
       accounts[msg.sender] -= money;
    }
 }
-
-
 // Above is a contract called Bank with a mapping called accounts. 
 // We define our mapping with the keyword mapping and in brackets, 
 // we put the key type first then an arrow and the value
@@ -36,3 +34,4 @@ contract Simple Token {
 }
 // Here we have defined mapping accounts with key address and value uint256. 
 // In the constructor, we provide the initial supply of tokens and add them to the creators account.
+// Next, defined a transfer function that can send the tokens to the desired address.
