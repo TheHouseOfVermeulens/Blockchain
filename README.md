@@ -31,10 +31,17 @@ In this repo you'll find some Blockchain code samples of my recent blockchain pr
 Recent research includes:
  
 • The DeFi Ecosystem and Application Stack
+
 • DeFi infrastructure other L1/L2 blockchains & bridges: Fantom and Cosmos
+
 • Stablecoins and CBDCs: USTerra - Luna (What caused the $47Bn wipeout in matket cap)
+
 • Decentralized Lending and Borrowing incl: Yearn Finance and Compound Finance
+
 • Decentralized Exchanges Presentation: Uniswap
+
 • DeFi Applications: Oracles, Derivatives, Insurance
+
 • DeFi Governance & DAOs
+
 • DeFi Tokenomics & Real-world Asset Tokenization incl. OlympusDAO
