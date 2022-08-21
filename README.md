@@ -1,4 +1,4 @@
-In this repo you'll find some Blockchain code samples of my recent blockchain projects including where I did the following:
+In this repo you'll find some Blockchain code samples of my recent blockchain projects and below I highlight my Blockchain knowledge and experience:
  
 • Examined blockchain structures to build robust, temper-proof transaction ledgers. Continued my examination on how blockchains can be secured against double spending attacks and the consensus protocol that is followed when more than one party holds the same transaction ledger. 
 
@@ -27,6 +27,21 @@ In this repo you'll find some Blockchain code samples of my recent blockchain pr
 • Illustrated key concepts in smart contracts including governance, languages, and standards
 
 • Code implementation of smart contracts in C#
+
+• Constructing integration libraries to interface with systems and APIs.
+
+
+• Collaborating with managers to determine blockchain technology needs and envisaged functionalities.
+
+• Maintaining client and server-side applications.
+
+• Optimizing and securing applications by integrating new tools and technologies.
+
+• Educating new features.
+
+• Documenting development processes and complying with best practices in data protection.
+
+• Keeping up with current blockchain technologies and cryptography methods (My Quantum repo highlights blockchain cryptography for post-quantum world)
 
 Recent research includes:
  
