@@ -1,4 +1,4 @@
-In this repo you'll find some Blockchain code samples of recent blockchain projects and examples. Below, I highlight my Blockchain knowledge and experience:
+In this repo you'll find some Blockchain code samples of recent blockchain projects and other examples I've worked through. Below, I highlight my Blockchain knowledge and experience:
  
 • Examined blockchain structures to build robust, temper-proof transaction ledgers. Continued my examination on how blockchains can be secured against double spending attacks and the consensus protocol that is followed when more than one party holds the same transaction ledger. 
 
